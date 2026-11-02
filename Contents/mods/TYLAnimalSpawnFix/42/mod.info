@@ -1,0 +1,8 @@
+name=10 Years Later Animal Spawn Fix
+id=TYLAnimalSpawnFix
+author=Ryker
+description=Fixes the "this.adef is null" crash caused by 10 Years Later [Unofficial] spawning animals on water.
+poster=preview.png
+icon=preview.png
+versionMin=42.20.0
+modversion=1.0.0
